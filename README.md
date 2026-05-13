@@ -16,28 +16,54 @@ During this period, I spent 80% of my time $\color{aqua}{\textbf{learning}}$ , $
 ##
 ► 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 : 『 •C++ language •C# •Java •Python •XML language •PHP •Java Script •Dart •HTML •CSS 』
 
-► 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : $\colorbox{green}{{\color{white}{Skill\}}}$           $\color{blue}{\textbf{Techniques}}$
+► 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 :     
 
-                •HTML/CSS                            Responsive, Flexbox, Building the Structure and 
+                   ★HTML/CSS                        •Responsive, Flexbox, Building the Structure and 
                                                         Content of Pages, Design and Coordination.
-                •Django                                   Django ORM Backend, MVT. 
+                   ★Django                          •Django ORM Backend, MVT 
                 
-                •Node.js                                  Full-stack JS, NPM , Rest APIS.
+                   ★Node.js                         •Full-stack JS, NPM , Rest APIS
 
-► 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔 : $\colorbox{green}{{\color{white}{Skill}}}$                  $\colorbox{green}{{\color{white}{Practical use}}}$
+► 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔 : 
 
-                •SQL Server                            Data storage, retrieval, analysis, and management, 
-                                                        Application development, Stored Procedures, RDBMS.
-                •MySQL                                 Optimization, Web Development.      
+                   ★SQL Server                      •Data storage, retrieval, analysis, and management, 
+                                                         Application development, Stored Procedures, RDBMS.
+                   ★MySQL                           •Optimization, Web Development.      
 
-                •Oracle                                CMMS data storage, RDBMS.
+                   ★Oracle                          •CMMS data storage, RDBMS
 
 ► 𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝒔𝒚𝒔𝒕𝒆𝒎𝒔 𝒂𝒏𝒅 𝑵𝒆𝒕𝒘𝒐𝒓𝒌𝒔 :
 
+                   ★Kali Linux                       •Penetration Testing, Social engineering.
 
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+                   ★Oracle Linux                     •SPA workflow processes, Running and working as a DBA.
+                   
+                   ★Windows Server                   •Active Directory, File Server, DHCP & DNS
 
+                   ★TCP/IP                           •Network Basics, Data partitioning
+
+                   ★RIP/Static Routing               •Assigning IP addresses or routing routes, Route maintenance, 
+                                                            Route convergence, Automatic route detection.
+                   ★Packet Analysis (Wireshark)      •Network error detection, Protocol analysis
+
+                   ★OSPF                             •Network segmentation, determining the best path for data transmission
+                   
+► 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝒂𝒏𝒅 𝑫𝒆𝒗𝑶𝒑𝒔 𝒕𝒐𝒐𝒍𝒔 :
+
+                   ★Git/GitHub                       •Track changes, Branch management Project hosting, management and sharing
+                   
+                   ★Docker                           •Creating and controlling containers, Building and deploying applications.
+
+                   ★Web Security                     •Protecting websites, software and data, Detecting vulnerabilities 
+
+                   ★Multi Tools                      •Creating and developing effective hacking tools
+##
+𝐎𝐭𝐡𝐞𝐫 𝐒𝐤𝐢𝐥𝐥𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐅𝐢𝐞𝐥𝐝 𝐨𝐟 𝐈𝐓 𝐚𝐧𝐝 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 :
+
+   •	$\color{blue}{\textbf{Graphic Design:}}$ Experience in Graphic Design and Photo editing using (Adobe Photoshop ,  Illustrator).
+                                                    Beginner in User Interface Design (UI/UX) Using a Program: Figma.
+                                                    
+   • $\color{blue}{\textbf{Microsoft Office Suite:}}$ Excellent at Creating and Formatting Documents, Managing Data, and Delivering                                            Presentations Using: Word, Excel and Powerpoint And it's very Good at Sending Emails Using: Outlook.          
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/toriis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ld_5b) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/fbbaec) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/MGbroo1) 
 
